@@ -14,7 +14,7 @@ Este repositorio contiene la tarea uno tarea de probabilidad, La cual consta de 
 - El diccionario de resultados se genera automáticamente según el número de caras ingresado.
 - Tras simular los 10,000 lanzamientos, se imprime el registro de las frecuencias al igual que en la fase 1.
 
-### Fase 3: Geometría y Probabilidad (El Juego del Caos)
+### Fase 3: Geometría y Probabilidad
 1. **El Tablero**: Se define un triángulo equilátero mediante tres vértices fijos (1, 2 y 3) en la pantalla.
 2. **El Inicio**: Se genera un punto inicial completamente aleatorio en el plano.
 3. **El Dado Virtual**: Se utiliza un dado de 3 caras, donde cada resultado se vincula a uno de los 3 vértices.
